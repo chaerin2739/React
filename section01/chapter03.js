@@ -30,3 +30,4 @@ let ifSwitchon = true;
 let isEmpty = false;
 
 // Null Type (아무것도 없다)
+let empty = null;

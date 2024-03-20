@@ -31,3 +31,8 @@ let isEmpty = false;
 
 // Null Type (아무것도 없다)
 let empty = null;
+
+// Undefinded Type
+let none;
+
+console.log(none);
